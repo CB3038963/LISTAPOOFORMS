@@ -1,0 +1,11 @@
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\obj\Debug\MAIOROUIDENTICOS.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\obj\Debug\MAIOROUIDENTICOS.Form1.resources
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\obj\Debug\MAIOROUIDENTICOS.Properties.Resources.resources
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\obj\Debug\MAIOROUIDENTICOS.csproj.GenerateResource.cache
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\obj\Debug\MAIOROUIDENTICOS.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\bin\Debug\MAIOROUIDENTICOS.exe.config
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\bin\Debug\MAIOROUIDENTICOS.exe
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\bin\Debug\MAIOROUIDENTICOS.pdb
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\obj\Debug\MAIOROUIDENTICOS.exe
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\obj\Debug\MAIOROUIDENTICOS.pdb
+C:\Users\Joana\source\repos\MAIOROUIDENTICOS\MAIOROUIDENTICOS\obj\Debug\MAIOROUIDENTICOS.exe.config
