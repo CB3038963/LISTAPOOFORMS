@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUADRADOFORMS", "QUADRADOFORMS\QUADRADOFORMS.csproj", "{9868AE3B-355D-406F-9E04-01CA77ED8C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9868AE3B-355D-406F-9E04-01CA77ED8C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9868AE3B-355D-406F-9E04-01CA77ED8C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9868AE3B-355D-406F-9E04-01CA77ED8C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9868AE3B-355D-406F-9E04-01CA77ED8C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C4B629-1E5B-4BF2-958E-8BC10B067616}
+	EndGlobalSection
+EndGlobal

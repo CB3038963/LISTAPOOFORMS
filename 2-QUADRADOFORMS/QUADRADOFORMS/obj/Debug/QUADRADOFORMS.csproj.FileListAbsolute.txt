@@ -1,0 +1,11 @@
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\bin\Debug\QUADRADOFORMS.exe.config
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\bin\Debug\QUADRADOFORMS.exe
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\bin\Debug\QUADRADOFORMS.pdb
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\obj\Debug\QUADRADOFORMS.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\obj\Debug\QUADRADOFORMS.Form1.resources
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\obj\Debug\QUADRADOFORMS.Properties.Resources.resources
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\obj\Debug\QUADRADOFORMS.csproj.GenerateResource.cache
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\obj\Debug\QUADRADOFORMS.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\obj\Debug\QUADRADOFORMS.exe
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\obj\Debug\QUADRADOFORMS.pdb
+C:\Users\Joana\source\repos\QUADRADOFORMS\QUADRADOFORMS\obj\Debug\QUADRADOFORMS.exe.config
