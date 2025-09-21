@@ -1,0 +1,11 @@
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\bin\Debug\MILHASFORMS.exe.config
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\bin\Debug\MILHASFORMS.exe
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\bin\Debug\MILHASFORMS.pdb
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\obj\Debug\MILHASFORMS.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\obj\Debug\MILHASFORMS.Form1.resources
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\obj\Debug\MILHASFORMS.Properties.Resources.resources
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\obj\Debug\MILHASFORMS.csproj.GenerateResource.cache
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\obj\Debug\MILHASFORMS.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\obj\Debug\MILHASFORMS.exe
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\obj\Debug\MILHASFORMS.pdb
+C:\Users\Joana\source\repos\MILHASFORMS\MILHASFORMS\obj\Debug\MILHASFORMS.exe.config
