@@ -1,0 +1,10 @@
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\obj\Debug\MAIORFORMS.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\obj\Debug\MAIORFORMS.Form1.resources
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\obj\Debug\MAIORFORMS.Properties.Resources.resources
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\obj\Debug\MAIORFORMS.csproj.GenerateResource.cache
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\obj\Debug\MAIORFORMS.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\bin\Debug\MAIORFORMS.exe.config
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\bin\Debug\MAIORFORMS.exe
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\bin\Debug\MAIORFORMS.pdb
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\obj\Debug\MAIORFORMS.exe
+C:\Users\Joana\source\repos\MAIORFORMS\MAIORFORMS\obj\Debug\MAIORFORMS.pdb
