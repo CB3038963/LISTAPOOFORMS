@@ -1,0 +1,11 @@
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\bin\Debug\DOLARFORMS.exe.config
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\bin\Debug\DOLARFORMS.exe
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\bin\Debug\DOLARFORMS.pdb
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\obj\Debug\DOLARFORMS.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\obj\Debug\DOLARFORMS.Form1.resources
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\obj\Debug\DOLARFORMS.Properties.Resources.resources
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\obj\Debug\DOLARFORMS.csproj.GenerateResource.cache
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\obj\Debug\DOLARFORMS.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\obj\Debug\DOLARFORMS.exe
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\obj\Debug\DOLARFORMS.pdb
+C:\Users\Joana\source\repos\DOLARFORMS\DOLARFORMS\obj\Debug\DOLARFORMS.exe.config
