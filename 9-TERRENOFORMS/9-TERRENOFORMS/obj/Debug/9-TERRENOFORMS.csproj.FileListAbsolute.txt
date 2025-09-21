@@ -1,0 +1,11 @@
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\bin\Debug\9-TERRENOFORMS.exe.config
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\bin\Debug\9-TERRENOFORMS.exe
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\bin\Debug\9-TERRENOFORMS.pdb
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\obj\Debug\9-TERRENOFORMS.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\obj\Debug\_9_TERRENOFORMS.Form1.resources
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\obj\Debug\_9_TERRENOFORMS.Properties.Resources.resources
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\obj\Debug\9-TERRENOFORMS.csproj.GenerateResource.cache
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\obj\Debug\9-TERRENOFORMS.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\obj\Debug\9-TERRENOFORMS.exe
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\obj\Debug\9-TERRENOFORMS.pdb
+C:\Users\Joana\source\repos\9-TERRENOFORMS\9-TERRENOFORMS\obj\Debug\9-TERRENOFORMS.exe.config
