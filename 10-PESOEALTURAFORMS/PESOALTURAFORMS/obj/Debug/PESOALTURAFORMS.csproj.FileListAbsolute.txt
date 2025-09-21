@@ -1,0 +1,11 @@
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\obj\Debug\PESOALTURAFORMS.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\obj\Debug\PESOALTURAFORMS.Form1.resources
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\obj\Debug\PESOALTURAFORMS.Properties.Resources.resources
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\obj\Debug\PESOALTURAFORMS.csproj.GenerateResource.cache
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\obj\Debug\PESOALTURAFORMS.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\bin\Debug\PESOALTURAFORMS.exe.config
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\bin\Debug\PESOALTURAFORMS.exe
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\bin\Debug\PESOALTURAFORMS.pdb
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\obj\Debug\PESOALTURAFORMS.exe
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\obj\Debug\PESOALTURAFORMS.pdb
+C:\Users\Joana\source\repos\PESOALTURAFORMS\PESOALTURAFORMS\obj\Debug\PESOALTURAFORMS.exe.config
