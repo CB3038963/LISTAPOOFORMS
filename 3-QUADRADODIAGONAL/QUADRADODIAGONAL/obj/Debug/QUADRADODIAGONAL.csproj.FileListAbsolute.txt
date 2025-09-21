@@ -1,0 +1,11 @@
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\bin\Debug\QUADRADODIAGONAL.exe.config
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\bin\Debug\QUADRADODIAGONAL.exe
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\bin\Debug\QUADRADODIAGONAL.pdb
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\obj\Debug\QUADRADODIAGONAL.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\obj\Debug\QUADRADODIAGONAL.Form1.resources
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\obj\Debug\QUADRADODIAGONAL.Properties.Resources.resources
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\obj\Debug\QUADRADODIAGONAL.csproj.GenerateResource.cache
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\obj\Debug\QUADRADODIAGONAL.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\obj\Debug\QUADRADODIAGONAL.exe
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\obj\Debug\QUADRADODIAGONAL.pdb
+C:\Users\Joana\source\repos\QUADRADODIAGONAL\QUADRADODIAGONAL\obj\Debug\QUADRADODIAGONAL.exe.config
